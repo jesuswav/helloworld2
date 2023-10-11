@@ -1,0 +1,15 @@
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\bin\Debug\net6.0\helloworld2.exe
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\bin\Debug\net6.0\helloworld2.deps.json
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\bin\Debug\net6.0\helloworld2.runtimeconfig.json
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\bin\Debug\net6.0\helloworld2.dll
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\bin\Debug\net6.0\helloworld2.pdb
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\obj\Debug\net6.0\helloworld2.csproj.AssemblyReference.cache
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\obj\Debug\net6.0\helloworld2.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\obj\Debug\net6.0\helloworld2.AssemblyInfoInputs.cache
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\obj\Debug\net6.0\helloworld2.AssemblyInfo.cs
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\obj\Debug\net6.0\helloworld2.csproj.CoreCompileInputs.cache
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\obj\Debug\net6.0\helloworld2.dll
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\obj\Debug\net6.0\refint\helloworld2.dll
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\obj\Debug\net6.0\helloworld2.pdb
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\obj\Debug\net6.0\helloworld2.genruntimeconfig.cache
+C:\users\walte\Cursos\ejercicios-universidad2\c#exercises\helloworld2\obj\Debug\net6.0\ref\helloworld2.dll
